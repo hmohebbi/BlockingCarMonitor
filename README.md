@@ -12,9 +12,3 @@ Ferdowsi University of Mashhad
 
 
 
-
-contact with us:
-
-
-Hosein Mohebbi: Hosein.mohebbi75@gmail.com
-
