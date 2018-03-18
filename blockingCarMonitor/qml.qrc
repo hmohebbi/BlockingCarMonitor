@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>img/bg.png</file>
+        <file>car.qml</file>
+        <file>dynamicCarCreation.js</file>
+        <file>img/cars/h/h10.png</file>
+        <file>img/cars/h/h20.png</file>
+        <file>img/cars/h/h21.png</file>
+        <file>img/cars/h/h22.png</file>
+        <file>img/cars/h/h23.png</file>
+        <file>img/cars/h/h30.png</file>
+        <file>img/cars/h/h31.png</file>
+        <file>img/cars/h/h32.png</file>
+        <file>img/cars/v/v10.png</file>
+        <file>img/cars/v/v20.png</file>
+        <file>img/cars/v/v21.png</file>
+        <file>img/cars/v/v22.png</file>
+        <file>img/cars/v/v23.png</file>
+        <file>img/cars/v/v30.png</file>
+        <file>img/cars/v/v31.png</file>
+        <file>img/cars/v/v32.png</file>
+    </qresource>
+</RCC>
